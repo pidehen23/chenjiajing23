@@ -2,7 +2,7 @@
 
 ### A Frontend developer from China.
 
-- 📚 Learning **next.js** & **ssr** now.
+- 📚 Learning **next.js** & **ssr** & **flutter** now.
 
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chenjiajing23&count_private=true&show_icons=true"/>
 
